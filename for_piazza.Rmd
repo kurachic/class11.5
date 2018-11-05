@@ -1,0 +1,12 @@
+---
+title: "Class11.5"
+author: "Melissa Gayton"
+date: "11/5/2018"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Democrats are very likely to take the house. Democrats are more likely to take the senate than Republicans are to retain the House, but still not likely. Trump's approval ratings are lower than most recent presidents, which means his opposition will be more eager to vote in midterms. While he and Republicans have maintained popularity among core supporters, they've lost voters such as conservative, college educated women.
